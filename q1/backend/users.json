@@ -1,0 +1,151 @@
+[
+    {
+        "name" : "Arsh",
+        "id" : 1,
+        "number_of_posts" : 10,
+        "posts" : [
+            {
+                "postId" : 1,
+                "number_of_comments" : 20,
+                "date_of_creation" :  {
+                    "time" : "16:00",
+                    "date" : 12,
+                    "month" : 2,
+                    "year" : 2022
+                }
+            }
+        ]
+    },
+    {
+        "name" : "Harry",
+        "id" : 2,
+        "number_of_posts" : 20,
+        "posts" : [
+            {
+                "postId" : 2,
+                "number_of_comments" : 10,
+                "date_of_creation" :  {
+                    "time" : "6:00",
+                    "date" : 19,
+                    "month" : 12,
+                    "year" : 2022
+                }
+            },
+            {
+                "postId" : 3,
+                "number_of_comments" : 8,
+                "date_of_creation" :  {
+                    "time" : "7:00",
+                    "date" : 21,
+                    "month" : 5,
+                    "year" : 2023
+                }
+            }
+        ]
+    },
+    {
+        "name" : "David",
+        "id" : 3,
+        "number_of_posts" : 90,
+        "posts" : [
+            {
+                "postId" : 4,
+                "number_of_comments" : 120,
+                "date_of_creation" :  {
+                    "time" : "10:00",
+                    "date" : 28,
+                    "month" : 3,
+                    "year" : 2025
+                }
+            }
+        ]
+    },
+    {
+        "name" : "Taylor",
+        "id" : 4,
+        "number_of_posts" : 30,
+        "posts" : [
+            {
+                "postId" : 5,
+                "number_of_comments" : 820,
+                "date_of_creation" :  {
+                    "time" : "16:00",
+                    "date" : 12,
+                    "month" : 2,
+                    "year" : 2024
+                }
+            },
+            {
+                "postId" : 6,
+                "number_of_comments" : 900,
+                "date_of_creation" :  {
+                    "time" : "9:00",
+                    "date" : 12,
+                    "month" : 12,
+                    "year" : 2024
+                }
+            },
+            {
+                "postId" : 7,
+                "number_of_comments" : 420,
+                "date_of_creation" :  {
+                    "time" : "8:00",
+                    "date" : 12,
+                    "month" : 2,
+                    "year" : 2025
+                }
+            }
+        ]
+    },
+    {
+        "name" : "Xavier",
+        "id" : 5,
+        "number_of_posts" : 170,
+        "posts" : [
+            {
+                "postId" : 8,
+                "number_of_comments" : 290,
+                "date_of_creation" :  {
+                    "time" : "8:00",
+                    "date" : 12,
+                    "month" : 12,
+                    "year" : 2022
+                }
+            }
+        ]
+    },
+    {
+        "name" : "Joe",
+        "id" : 6,
+        "number_of_posts" : 50,
+        "posts" : [
+            {
+                "postId" : 9,
+                "number_of_comments" : 320,
+                "date_of_creation" :  {
+                    "time" : "16:00",
+                    "date" : 12,
+                    "month" : 12,
+                    "year" : 2021
+                }
+            }
+        ]
+    },
+    {
+        "name" : "Divij",
+        "id" : 7,
+        "number_of_posts" : 180,
+        "posts" : [
+            {
+                "postId" : 10,
+                "number_of_comments" : 8720,
+                "date_of_creation" :  {
+                    "time" : "7:00",
+                    "date" : 12,
+                    "month" : 8,
+                    "year" : 2021
+                }
+            }
+        ]
+    }
+]
