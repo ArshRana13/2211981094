@@ -8,6 +8,7 @@ const users = [
     {
         "name" : "Arsh",
         "id" : 1,
+        "image": "https://picsum.photos/seed/arsh/200", // Random image
         "posts" : [
             {
                 "postId" : 1,
@@ -24,6 +25,7 @@ const users = [
     {
         "name" : "Harry",
         "id" : 2,
+        "image": "https://picsum.photos/seed/harry/200", // Random image
         "posts" : [
             {
                 "postId" : 2,
@@ -50,6 +52,7 @@ const users = [
     {
         "name" : "David",
         "id" : 3,
+        "image": "https://picsum.photos/seed/david/200", // Random image
         "posts" : [
             {
                 "postId" : 4,
@@ -66,7 +69,7 @@ const users = [
     {
         "name" : "Taylor",
         "id" : 4,
-        "number_of_posts" : 30,
+        "image": "https://picsum.photos/seed/taylor/200", // Random image
         "posts" : [
             {
                 "postId" : 5,
@@ -103,7 +106,7 @@ const users = [
     {
         "name" : "Xavier",
         "id" : 5,
-        "number_of_posts" : 170,
+        "image": "https://picsum.photos/seed/xavier/200", // Random image
         "posts" : [
             {
                 "postId" : 8,
@@ -120,6 +123,7 @@ const users = [
     {
         "name" : "Joe",
         "id" : 6,
+        "image": "https://picsum.photos/seed/joe/200", // Random image
         "posts" : [
             {
                 "postId" : 9,
@@ -136,6 +140,7 @@ const users = [
     {
         "name" : "Divij",
         "id" : 7,
+        "image": "https://picsum.photos/seed/divij/200", // Random image
         "posts" : [
             {
                 "postId" : 10,
